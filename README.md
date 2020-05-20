@@ -1,1 +1,1 @@
-# restaurant-ranker
+# Restaurant Ranker
